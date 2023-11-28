@@ -8,20 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fa2aa3a1093751ab",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "d87afd99e5f00c5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Transformers.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Transformers.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Transformers.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Transformers.md"
+                "file": "README.md"
               }
             }
           },
@@ -223,18 +214,18 @@
   },
   "active": "d87afd99e5f00c5d",
   "lastOpenFiles": [
+    "7. Transformers.md",
+    "6. Aprendizaje Convolucional y Adversativo.md",
+    "5. IA evolutiva.md",
+    "4. Regresor lineal.md",
+    "3. Tipos de entrenamiento.md",
+    "2. Perceptron Multicapa.md",
+    "1. Perceptron Simple.md",
     "README.md",
     "gitinit.sh",
     "Documento sin título",
     "hola.txt",
     "teste.java",
-    "1. Perceptron Simple.md",
-    "7. Transformers.md",
-    "6. Aprendizaje Convolucional y Adversativo.md",
-    "4. Regresor lineal.md",
-    "3. Tipos de entrenamiento.md",
-    "2. Perceptron Multicapa.md",
-    "5. IA evolutiva.md",
     "Notas-de-Aprendizaje-IA-obsidian",
     "Code_Tests/PErceptron_simple.py",
     "Code_Tests",
