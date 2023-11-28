@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "7. Transformers.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "7. Transformers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "7. Transformers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "7. Transformers.md"
               }
             }
           },
@@ -214,6 +214,7 @@
   },
   "active": "d87afd99e5f00c5d",
   "lastOpenFiles": [
+    "README.md",
     "7. Transformers.md",
     "6. Aprendizaje Convolucional y Adversativo.md",
     "5. IA evolutiva.md",
@@ -221,7 +222,6 @@
     "3. Tipos de entrenamiento.md",
     "2. Perceptron Multicapa.md",
     "1. Perceptron Simple.md",
-    "README.md",
     "gitinit.sh",
     "Documento sin título",
     "hola.txt",
